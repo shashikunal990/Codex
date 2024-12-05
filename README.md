@@ -17,7 +17,7 @@ git clone https://github.com/Not-D4rkCipherX/notpixel-adsv2.git
 ```
 4. Navigate to the repository:
 ```
-cd notpixel
+cd notpixel-adsv2
 ```
 5. Run the main script:
 ```
